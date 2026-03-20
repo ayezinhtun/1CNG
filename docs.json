@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "1CNG",
+  "name": "Documentation",
   "colors": {
-    "primary": "#283e80",
+    "primary": "#0D9373",
     "light": "#6B85E0",
     "dark": "#283e80"
   },
@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "User Guide",
+        "tab": "Documentation",
         "pages": [
           {
             "group": "Getting Started",
@@ -159,6 +159,9 @@
       },
       {
         "tab": "Best Practice"
+      },
+      {
+        "tab": "User Guide"
       }
     ]
   },
@@ -178,15 +181,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
